@@ -1,0 +1,13 @@
+{
+	"geode": "5.11.2",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081"
+	},
+	"id": "zeer866.editinfo",
+	"name": "Edit Info",
+	"version": "v1.0.0",
+	"developer": "Zeer866",
+	"description": "Edita el tiempo de editor (In Editor / Editor (C)) de un nivel o ponlo en N/A.",
+	"tags": ["editor", "utility"]
+}
